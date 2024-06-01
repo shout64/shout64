@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devin, also known as @shout64
+- 👋 Hello! I’m Devin, also known as @shout64
 - 🏢 In my day job I'm writing lots of SQL and automations with PowerShell. 
 - 🌱 I’m currently learning Game Development with @Godotengine and Web Development.
 - 😄 Pronouns: He/Him
