@@ -1,6 +1,7 @@
-- 👋 Hello! I’m Devin, also known as @shout64
+ ## Hello! I’m Devin, also known as shout64
 - 🏢 In my day job I'm writing lots of SQL and automations with PowerShell and Python. 
-- 🌱 I’m currently learning Game Development with @Godotengine and Backend Development.
+- 🧑‍💻 At night I'm a Game Developer with [Godot](https://github.com/godotengine/godot) and a backend developer.
+- 🙋‍♂️ You can follow me on [Twitter](https://x.com/_shout64) or [Bluesky](https://bsky.app/profile/shout64.bsky.social).
 - 😄 Pronouns: He/Him
 <!--- 
 - 💞️ I’m looking to collaborate on ...
